@@ -4,4 +4,4 @@ En resumen nuestro integrador es un sistema de registro por medio de la tecnolog
 
 ![Imagen del proyecto](https://github.com/YanezNet/Integrador/blob/main/mqtt.gif)
 
-[informacion del proyecto](https://github.com/YanezNet/Integrador/blob/main/Documento_PI.pdf)
+[Dscargar pdf](https://github.com/YanezNet/Integrador/blob/main/Documento_PI.pdf)
