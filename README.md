@@ -3,3 +3,5 @@ En resumen nuestro integrador es un sistema de registro por medio de la tecnolog
 , con esto lograremos un proceso mas rapido para el encargado de realizar los registros ya que se hara automaticamente y sera mucho mas rapido.
 
 ![Imagen del proyecto](https://github.com/YanezNet/Integrador/blob/main/mqtt.gif)
+
+[informacion del proyecto]()
